@@ -1,2 +1,2 @@
-# Translator
-Translator App
+# Camera
+Camera App
